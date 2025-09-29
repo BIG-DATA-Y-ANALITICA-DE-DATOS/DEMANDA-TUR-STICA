@@ -1,0 +1,14 @@
+# Ignorar carpetas de Hadoop
+/opt/hadoop_data/hdfs/
+
+# Ignorar notebooks temporales
+*.ipynb_checkpoints
+
+# Ignorar archivos de configuración locales
+*.log
+*.out
+*.tmp
+
+# Ignorar carpetas de entorno virtual
+venv/
+.env
