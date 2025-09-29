@@ -29,12 +29,7 @@
 
 	<property>
 		<name>dfs.datanode.data.dir</name>
-		<value>
-		file:/opt/hadoop_data/hdfs/datanode1,
-		file:/opt/hadoop_data/hdfs/datanode2,
-                file:/opt/hadoop_data/hdfs/datanode4,
-                file:/opt/hadoop_data/hdfs/datanode3
-		</value>
+		<value>file:/opt/hadoop_data/hdfs/datanode1,file:/opt/hadoop_data/hdfs/datanode2,file:/opt/hadoop_data/hdfs/datanode4,file:/opt/hadoop_data/hdfs/datanode3</value>
 	</property>
 	<property>
    		 <name>net.topology.script.file.name</name>
