@@ -10,7 +10,9 @@
 *.log
 *.out
 *.tmp
+*.parquet
 
 # Ignorar carpetas de entorno virtual
 venv/
 .env
+parquets/
